@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="streams.StreamExamplesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-02-06T00:23:53.049Z" hostname="rudy" time="0.071">
+  <properties/>
+  <testcase name="1. Filtering: 짝수만 걸러내기" classname="streams.StreamExamplesTest" time="0.046"/>
+  <testcase name="2. Mapping: 문자열 대문자로 변환" classname="streams.StreamExamplesTest" time="0.001"/>
+  <testcase name="10. Joining: 문자열 합치기" classname="streams.StreamExamplesTest" time="0.003"/>
+  <testcase name="8. Statistics: IntStream 통계 (최대, 최소, 평균)" classname="streams.StreamExamplesTest" time="0.005"/>
+  <testcase name="9. Distinct: 중복 제거" classname="streams.StreamExamplesTest" time="0.002"/>
+  <testcase name="3. Sorting: 문자열 길이순 정렬" classname="streams.StreamExamplesTest" time="0.001"/>
+  <testcase name="4. FlatMap: 중첩 리스트 평탄화" classname="streams.StreamExamplesTest" time="0.001"/>
+  <testcase name="6. GroupingBy: 문자열 길이에 따라 그룹핑" classname="streams.StreamExamplesTest" time="0.004"/>
+  <testcase name="7. PartitioningBy: 짝수와 홀수로 분리" classname="streams.StreamExamplesTest" time="0.001"/>
+  <testcase name="5. Reduce: 모든 숫자의 합 구하기" classname="streams.StreamExamplesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
